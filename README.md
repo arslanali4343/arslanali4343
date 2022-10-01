@@ -14,9 +14,9 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Arslan Ali</strong></samp></h2>
 <h3 align='center'><strong><a href="https://arslanali4343.github.io/Personal-Portfolio/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Machine Learning | Deep Learning | Kaggle Expert | Computer Engineering Student | Web developer</p>
+<p align='center'>ML Engineer at Techlogix | Data Analyst | Power Bi Developer | Business Intelligence | Data Science | Machine Learning | SQL/PLSQL developer | Kaggle 3x Expert</p>
 
-<p align='left'> 📫 I am studying Computer Engineering in UET Lahore. Interests: Deep learning and its applications in computer vision, NLP, and Data Analysis. Looking for an ML internship to make a professional base as an ML Engineer, utilize my Machine Learning skills for solving industry problems and gain an hands on experience with them.</p>
+<p align='left'> 📫I work as a software engineer at Techlogix, I worked in the artificial intelligence area for the last two years. Over the course of this time, I explored and practiced machine learning and deep learning in various projects. Additionally, I have been a Kaggle expert three times.</p>
 
 Programmer specialized in **Python and c++** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
